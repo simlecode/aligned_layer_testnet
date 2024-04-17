@@ -6,7 +6,7 @@
 
 ## Aligned Layer repos:
 
-* [EigenLayer implementation](https://github.com/yetanotherco/aligned_layer)
+* [EigenLayer implementation](https://github.com/yetanotherco/aligned_layer_testnet)
 * [Tendermint implementation](https://github.com/yetanotherco/aligned_layer_tendermint) 
 * [Compilation of resources from Zero to Aligned](https://github.com/yetanotherco/zero-to-aligned)
 
