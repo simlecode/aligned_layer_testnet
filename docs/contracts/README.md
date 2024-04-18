@@ -4,4 +4,3 @@ In this section, a brief description of the contracts corresponding to the AVS i
  
 - [AlignedLayerServiceManager](service_manager.md)
 - [AlignedLayerTaskManager](task_manager.md)
-- [ERC20](ERC20.md)
